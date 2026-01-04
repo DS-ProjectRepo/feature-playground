@@ -1,0 +1,34 @@
+# --- Python Basics ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+
+# --- Data Science & Large Files (CRITICAL) ---
+# We do not push raw data to GitHub (users should download it separately)
+data/
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.h5
+
+# --- MLflow & Experiment Logs ---
+# These are local experiment results; we usually don't push the history
+mlruns/
+.trash/
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
