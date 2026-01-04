@@ -32,3 +32,4 @@ mlruns/
 # --- OS Junk ---
 .DS_Store
 Thumbs.db
+mlflow.db
