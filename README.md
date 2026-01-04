@@ -1,10 +1,3 @@
-Here is the **entire README.md**, **one single continuous Markdown file**, from top to bottom.
-You can **copy-paste this exactly** and save it as `README.md`.
-There is **nothing outside this file**.
-
----
-
-````markdown
 # 🧪 Feature Engineering Playground
 
 ### *A Microservices-based ML Application for Churn Prediction*
